@@ -1,5 +1,4 @@
-👨‍💻 Software Engineer specializing in web and AI applications with Go, Python, and JavaScript. Passionate about building innovative solutions.
-💬 Let's collaborate! Reach me at [parsa.moshirpour@gmail.com].
+👨‍💻 Software Engineer specializing in web and AI applications with Go, Python, and JavaScript. Passionate about building innovative solutions, learning, and teaching. 💬 Let's collaborate! Reach me at [parsa.moshirpour@gmail.com].
 
 
 <!---
