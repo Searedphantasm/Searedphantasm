@@ -42,8 +42,7 @@ I'm also passionate about **teaching and mentoring**—sharing knowledge on **be
 💬 I'm always open to **collaborations** and **exciting projects**!  
 
 📧 **Email:** [parsa.moshirpour@gmail.com](mailto:parsa.moshirpour@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-🌍 **Website:** [yourwebsite.com](#)  
+
 
 ---
 
