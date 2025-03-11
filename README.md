@@ -51,4 +51,4 @@ I'm also passionate about **teaching and mentoring**—sharing knowledge on **be
 
 ---
 
-🛠️ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+🛠️ "Curiosity is the engine of achievement. The more you explore, the more you grow."
