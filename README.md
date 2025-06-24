@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I'm a **Software Engineer** specializing in **web development, AI applications, and DevOps**. With expertise in **GoLang, NestJS, and PostgreSQL**, I design scalable **microservices** and build robust **back-end architectures**. On the front end, I leverage **React, Next.js, and TypeScript** to create seamless user experiences.  
+I'm a **Software Engineer** specializing in **web development, AI applications, and DevOps**. With expertise in **Python, JS(TS too), and databases(Postgresql, Redis, Mongodb)**, I design scalable **microservices** and build robust **back-end architectures**. On the front end, I leverage **React, Next.js, and TypeScript** to create seamless user experiences.  
 
 I'm also passionate about **teaching and mentoring**—sharing knowledge on **best practices, performance optimization, and modern software development methodologies**.
 
@@ -13,18 +13,15 @@ I'm also passionate about **teaching and mentoring**—sharing knowledge on **be
 ### 🛠️ Tech Stack
 
 #### **💻 Languages & Frameworks**
-- **Backend:** GoLang, NestJS, Python  
-- **Frontend:** React, Next.js, TypeScript  
-- **Databases:** PostgreSQL, Redis  
+- **Backend:** NestJS, Express, FastAPI, Django  
+- **Frontend:** React, Next.js, TypeScript, SvelteKit, css libraries...  
+- **Databases:** PostgreSQL, Redis, Mongodb 
 
 #### **⚙️ DevOps & Infrastructure**
-- **Containerization & Orchestration:** Docker, Kubernetes  
-- **CI/CD & Cloud:** GitHub Actions, Linux, DNS Configuration  
-- **Security & Authentication:** OTP-based authentication, API security best practices  
+- **Containerization & Orchestration:** Docker, familiar with Kubernetes  
+- **CI/CD & Cloud:** GitHub Actions, Linux, DNS Configuration, web-server config, etc...  
+- **Security & Authentication:** OTP-based authentication, API security best practices, OAuth, jwt , session base...  
 
-#### **📊 Data & Machine Learning**
-- **Data Analysis:** NumPy, Pandas  
-- **Visualization:** Matplotlib  
 
 ---
 
